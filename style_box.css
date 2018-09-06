@@ -1,0 +1,100 @@
+body {
+	background-color: grey;
+}
+
+img  { 
+	border: 3px solid #006400;
+	text-align: center;
+
+
+
+}
+
+.bor:hover {
+	transform: rotate(-15deg); 
+	border: 10px solid #800000;
+	transition: 1.0s
+}
+
+.bor1:hover {
+	transform: rotate(15deg); 
+	border: 10px solid #800000;
+	transition: 1.0s
+}
+
+
+#boxPortal: {
+	text-align: center;
+	color: #730310 ;
+	font-family: Arial;
+	font-size: 25px;
+	box-shadow: 0px 10px 8px rgba(97, 22, 22, 0.8);
+	width: 100%;
+	
+}
+
+#gassiev {
+	background-color: rgba(17, 122, 65, 0.5);
+	color: #24117a;
+	font-family: Arial;
+	font-size: 25px;
+	box-shadow: 0px 10px 8px rgba(97, 22, 22, 0.8);
+	width: 100%;
+	text-align: center;
+}
+
+.gassiev:hover {
+	transform: rotate(15deg);
+	border: 10px solid #800000;
+	transition: 1.0s
+
+}
+
+ .usik:hover {
+	transform: rotate(15deg); 
+	border: 10px solid #800000;
+	transition: 1.0s
+}
+
+
+
+#usik {
+	
+	background-color: rgba(17, 122, 65, 0.5);
+	color: #24117a;
+	font-family: Arial;
+	font-size: 25px;
+	box-shadow: 0px 10px 8px rgba(97, 22, 22, 0.8);
+	width: 100%;
+	text-align: center;
+}
+
+img{
+box-shadow: 0px 10px 8px rgba(97, 22, 22, 0.8);
+text-align: center;
+}
+
+#coef {
+	
+	background-color: rgba(17, 122, 65, 0.5);;
+	color: #24117a;
+	font-size: 10px ;
+	box-shadow: 0px 10px 8px rgba(97, 22, 22, 0.8);
+	width: 100%;
+	text-align: center;
+}
+
+#buck {
+	background-color: rgba(17, 122, 65, 0.5);
+	box-shadow: 0px 10px 8px rgba(97, 22, 22, 0.8);
+	width: 100%;
+	text-align: center;
+}
+
+a {
+	background-color: rgba(17, 122, 65, 0.5);
+	box-shadow: 0px 10px 8px rgba(97, 22, 22, 0.8);
+	width: 100%;
+	text-align: center;
+
+}
